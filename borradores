@@ -1,0 +1,69 @@
+<table class="table">
+
+    <tr>
+  
+      <td> <a href="procesos.html"><b>PROCESOS Y PROCEDIMIENTOS</b></a> </td>
+  
+    </tr>
+    <tr>
+  
+        <td><a href="planillas.html"><b>PLANTILLAS PARA DOCUMENTOS</b></a></td>
+    
+    </tr>
+    <tr>
+  
+        <td><a href="plan.html"><b> PLAN DE MEJORAMIENTO</b></a></td>
+    
+    </tr>
+    
+    <tr>
+        <td><a href="herramientas.html"><b>CAJA DE HERRAMIENTAS MIPG </b></a></td>
+    </tr>
+  
+</table>
+
+
+.table{
+    background: #00bbf1;
+    list-style-type: none;
+    text-align: center;
+    margin-left: 400px;
+    margin-top: 80px;
+    width: 500px;
+    border-color: rgb(14, 1, 1);
+    border-width: 100px;
+  }
+
+  <!--------------------------------------------------------------tabla--------------------------------------------------->
+  <footer>
+    <div class="footer-proceso">
+
+        <img src="img/footer.png" alt="footer">
+
+    </div>
+</footer>
+
+
+
+
+procesossss
+
+<a href="index.html" class="button"><b> INICIO </b></a>
+
+            <div class="modulo-proceso">
+                <H1>PROCESOS Y PROCEDIMIENTOS</H1>  
+
+            </div>
+            
+            <hr  size="5" width="1200" color="#00bbf1">
+
+            <div class="icono-1">
+
+                <a title="img" href="#estrategica"><img src="img/estrategic.png" /></a>
+
+             </div>
+            <div class="icono-2">
+
+                <a title="img" href="#estrategica"><img src="img/apple-icon-120x120.png" /></a>
+
+            </div>

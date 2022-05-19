@@ -1,0 +1,125 @@
+/*-------------------------------------------- INICIO CSS INDEX --------------------------------------------*/
+.img-banner{
+    text-align: center;
+    margin-top: 50px;
+}
+
+body{
+    font-family: Arial, Helvetica;
+    background: #ffffff;
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+    padding: 0;
+    width: 400px;
+    background-color: white;
+    margin-left: 450px;
+    margin-top: 60px;
+    padding: 10px;
+    
+  }
+  
+  li a {
+    display: block;
+    color: rgb(0, 0, 0);
+    padding: 8px 16px;
+    text-decoration: none;
+    
+  }
+  
+  /* Change the link color on hover */
+  li a:hover {
+    background-color:#00bbf1;
+    color: #ffffff;
+    border-left-color: #000000;
+    border-radius: 10px;
+  }
+
+  a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+    background: #79bf24;
+    text-decoration: none;
+    color: initial;
+    border-radius: 10px;
+    padding: 15px;
+    border-color: #000000;
+    margin-left: 60px;
+    margin-top: 40px;
+
+
+  }
+
+  /*-------------------------------------------- FIN CSS INDEX --------------------------------------------*/
+
+/*-------------------------------------------- INICIO CSS PROCESO --------------------------------------------*/
+
+.img-banner-proceso{
+  text-align: center;
+  margin-top: 50px;
+}
+.footer-proceso{
+    text-align: center;
+}
+.modulo-proceso{
+    text-align: center;
+}
+.icono-1{
+    margin-left: 80px;
+    margin-top: 80px;
+}
+.icono-2{
+    margin-left: 80px;
+    margin-top: 80px;
+  }
+
+
+  
+  /*inicio de las card efecto hover*/
+
+.cards-procesos{
+  max-width: 1000px;
+  padding: 20px;
+  padding-bottom: 40px;
+  margin: auto;
+  margin-top: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.card{
+
+  width: 300px;
+  position: relative;
+  margin: 20px;
+}
+
+.icon{
+  width: 100%;
+  height: 220px;
+  background: #efefef;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /*inicio de las card*/
